@@ -20,4 +20,7 @@ let ventana;
 // prompt("this data is a string");
 
 // to confirm an action this return true/false;
-confirm("you sure want to exit the page?");
+// confirm("you sure want to exit the page?");
+
+//screen property 
+console.log(window.screen)
