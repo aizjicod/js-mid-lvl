@@ -23,4 +23,4 @@ let ventana;
 // confirm("you sure want to exit the page?");
 
 //screen property 
-console.log(window.screen)
+// console.log(window.screen)
