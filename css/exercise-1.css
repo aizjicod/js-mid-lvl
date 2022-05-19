@@ -48,3 +48,10 @@ input[type="submit"]{
 input[type="submit"]:active{
     transform:scale(.9)
 }
+
+.green{
+    color:#afa
+}
+.red{
+    color:#faa;
+}
